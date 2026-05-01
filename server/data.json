@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Drink Water[In litre]" },
+    { "id": 2, "name": "Exercise[In hours]" },
+    { "id": 3, "name": "Read a Book[No.of pages]" }
+  ]
